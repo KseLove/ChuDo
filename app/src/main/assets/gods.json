@@ -1,6 +1,11 @@
 [
+  {"id": "bur", "title":"Бёр","description": "отец Одина и всё"},
   {"id": "odin", "title": "Один","description": "Верховный бог, бог войны и создатель миров"},
   {"id": "tor", "title":"Тор","description": "Бог грома и молнии"},
-  {"id": "Loki", "title":"Локи","description": "Бог огня и коварства(паскуда короче)"}
-
+  {"id": "Loki", "title":"Локи","description": "Бог огня и коварства(паскуда короче)"},
+  {"id": "magni", "title":"Магни","description": "Бог физической силы"},
+  {"id": "modi", "title":"Моди","description": "Бог воинской ярости"},
+  {"id": "ull", "title":"Улль","description": "Бог охоты"},
+  {"id": "tur", "title":"Тюр","description": "Бог однорукий бог чести и войны"},
+  {"id": "heimdall", "title":"Хеймдалл","description": "Бог страж богов и мирового древа"}
 ]
